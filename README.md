@@ -25,6 +25,6 @@ Run the program using:
 ```
 
 ## Project Structure
--Main Program (main.cpp): Contains user interface and scheduling logic.
--Class Management (register.h, register.cpp): Manages class details.
--Matching Algorithm (BipartiteMatching.h, BipartiteMatching.cpp): Implements the maximum bipartite matching algorithm.
+- Main Program (main.cpp): Contains user interface and scheduling logic.
+- Class Management (register.h, register.cpp): Manages class details.
+- Matching Algorithm (BipartiteMatching.h, BipartiteMatching.cpp): Implements the maximum bipartite matching algorithm.
